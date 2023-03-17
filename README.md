@@ -23,7 +23,7 @@ This repo contains the code for our **NeurIPS 2022** "*Intermediate Prototype Mi
 
 ### Models
 
-- We provide all trained TPMT [models](https://drive.google.com/drive/folders/1qgxKQSQvGOqLqAdzGmnyHuaBUxpesJNE?usp=sharing) for performance evaluation. _Backbone: ResNet50; Dataset: PASCAL-5<sup>i</sup>; Setting: 1-shot.
+- We provide all trained TPMT [models](https://drive.google.com/drive/folders/1qgxKQSQvGOqLqAdzGmnyHuaBUxpesJNE?usp=sharing) for performance evaluation.
 
 ## References
 
