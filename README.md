@@ -28,15 +28,18 @@ This repo contains the code for our **NeurIPS 2022** "*Intermediate Prototype Mi
 ### Scripts
 
 - **Step1** *setting the config*
+
   Change configuration via the `.yaml` files in `config`.
   
 - **Step2** *Training*
+
   Run for training.
   ```
   python train.py
   ```
 
 - **Step3** *Testing*
+
   Run for testing.
   ```
   python test.py
