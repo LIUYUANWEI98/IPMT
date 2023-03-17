@@ -25,6 +25,10 @@ This repo contains the code for our **NeurIPS 2022** "*Intermediate Prototype Mi
 
 - We provide all trained TPMT [models](https://drive.google.com/drive/folders/1qgxKQSQvGOqLqAdzGmnyHuaBUxpesJNE?usp=sharing) for performance evaluation.
 
+### Scripts
+
+- Change configuration via the `.yaml` files in `config`, then run the `train.py` scripts for training.
+
 ### Visualization
 
 <p align="middle">
