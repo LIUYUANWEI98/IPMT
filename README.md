@@ -25,6 +25,12 @@ This repo contains the code for our **NeurIPS 2022** "*Intermediate Prototype Mi
 
 - We provide all trained TPMT [models](https://drive.google.com/drive/folders/1qgxKQSQvGOqLqAdzGmnyHuaBUxpesJNE?usp=sharing) for performance evaluation.
 
+### Visualization
+
+<p align="middle">
+    <img src="figure/visualization.jpg">
+</p>
+
 ## References
 
 This repo is mainly built based on [CyCTR](https://github.com/GengDavid/CyCTR). Thanks for their great work!
